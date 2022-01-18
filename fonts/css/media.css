@@ -1,0 +1,207 @@
+
+@media(min-width:992px) and (max-width:1199.98px){
+    .banner-contant h1 {
+        font-size: 47px;
+        
+    }
+    .banner-contant h3 {
+        font-size: 33px;
+        
+    }
+}
+@media(min-width:578px) and (max-width:991.98px){
+    .navbar {
+        padding-top: 7px;
+       
+    }
+    .navbar-brand img{
+        width: 120px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-toggler {
+        color: #fff;
+    }
+    .navbar-nav {
+        background:#c7b299;
+        text-align: center;
+        padding: 10px 0px;
+    }
+    .banner-text {
+        height: 64vh;
+    }
+    #banner {
+        height: 64vh;
+    }
+    #video-banner {
+        padding-top: 105px;
+        padding-bottom: 106px;
+        
+    }
+}
+@media(min-width:576px) and (max-width:767.98px){
+    .navbar {
+        padding-top: 7px;
+       
+    }
+    .navbar-brand img{
+        width: 120px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-toggler {
+        color: #fff;
+    }
+    .navbar-nav {
+        background:#c7b299;
+        text-align: center;
+        padding: 10px 0px;
+    }
+    .banner-contant h3 {
+        font-size: 28px;
+    }
+    .banner-contant h1 {
+        font-size: 40px;
+    }
+    #banner {
+        height: 90vh;
+    }
+    .banner-text {
+        height: 92vh;
+    }
+    .banner-contant p {
+        padding-bottom: 27px;
+    }
+    #service {
+        padding-top: 37px;
+        padding-bottom: 74px;
+    }
+    .nav-tabs .all-btn {
+        padding: 7px 6px;
+    }
+    #video-banner {
+        padding-top: 114px;
+        padding-bottom: 143px;
+       
+    }
+    #counter {
+        padding-top: 50px;
+        padding-bottom: 65px;
+    }
+    .counter-text i {
+        padding-bottom: 13px;
+    }
+    .counter-text i {
+        
+        padding: 13px;
+    }
+    .counter-text p {
+        padding-top: 6px;
+    }
+    .nav-tabs .nav-link {
+        padding: 10px 9px;
+    }
+    .card-title {
+        font-size: 16px;
+    }
+    .footer-text2 h3 {
+        margin-top: 32px;
+    }
+    #footer {
+        padding-bottom: 23px;
+    }
+
+}
+
+@media(max-width:575.98px){
+
+   
+    .navbar {
+        padding-top: 7px;
+       
+    }
+    .navbar-brand img{
+        width: 120px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-toggler {
+        color: #fff;
+    }
+    .navbar-nav {
+        background:#c7b299;
+        text-align: center;
+        padding: 10px 0px;
+    }
+    .banner-contant h3 {
+        font-size: 22px;
+    }
+    .banner-contant h1 {
+        font-size: 37px;
+        line-height: 40px;
+    }
+    .banner-text {
+        height: 105vh;
+    }
+    .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+        padding: 0px 13px;
+    }
+    .nav-tabs .nav-link {
+        margin: 4px 4px;
+    }
+    #video-banner {
+        padding-top: 97px;
+        padding-bottom: 90px;
+    }
+    .video-text h2 {
+        font-size: 21px;
+    }
+    #counter {
+        padding-top: 50px;
+        padding-bottom: 65px;
+    }
+    .counter-text i {
+        padding-bottom: 13px;
+    }
+    .counter-text i {
+        
+        padding: 13px;
+    }
+    .counter-text p {
+        padding-top: 6px;
+    }
+    #blog {
+        padding-top: 65px;
+        padding-bottom: 70px;
+    }
+    #footer {
+        padding-top: 39px;
+        padding-bottom: 25px;
+    }
+    .footer-text1{
+        margin-bottom: 20px;
+    }
+    .footer-text2 h3 {
+        padding-bottom: 10px;
+    }
+    .foot p {
+        margin-bottom: 26px;
+        line-height: 23px;
+    }
+    #foot {
+        padding-top: 25px;
+        padding-bottom: 13px;
+    }
+    .footer-text2 h3 {
+        padding-bottom: 20px;
+    }      
+}
+@media(min-width:500px) and (max-width:575px){
+    .service-card p {
+        padding: 0px 42px;
+        padding-bottom: 30px;
+    }
+}
